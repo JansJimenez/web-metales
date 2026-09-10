@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Calamina Galvanizada Ondulada",
+    "categoria": "Calaminas",
+    "medidas": "0.22mm x 1.80m / 3.60m",
+    "descripcion": "Cobertura económica y resistente contra la corrosión y lluvias intensas.",
+    "precio_ref": "S/ 24.50"
+  },
+  {
+    "id": 2,
+    "nombre": "Calamina Trapezoidal TR4",
+    "categoria": "Calaminas",
+    "medidas": "Aluzinc 0.40mm - Cortes a medida",
+    "descripcion": "Alta resistencia estructural para techados residenciales e industriales.",
+    "precio_ref": "S/ 48.00"
+  },
+  {
+    "id": 3,
+    "nombre": "Plancha Termoacústica UPVC",
+    "categoria": "Calaminas",
+    "medidas": "Espesor 2.0mm / 2.5mm",
+    "descripcion": "Reduce el ruido de lluvia y aísla el calor. Inmune a la oxidación.",
+    "precio_ref": "S/ 85.00"
+  },
+  {
+    "id": 4,
+    "nombre": "Tubo Cuadrado Estructural",
+    "categoria": "Metales",
+    "medidas": "2x2 pulg x 2.0mm x 6m",
+    "descripcion": "Acero LAC para estructuras de techos, tijerales y portones.",
+    "precio_ref": "S/ 62.00"
+  },
+  {
+    "id": 5,
+    "nombre": "Perfil Canal U y Platinas",
+    "categoria": "Metales",
+    "medidas": "Varillas estándar de 6 metros",
+    "descripcion": "Perfiles laminados en caliente para cerrajería y carpintería metálica.",
+    "precio_ref": "S/ 38.00"
+  },
+  {
+    "id": 6,
+    "nombre": "Fierro Corrugado Grado 60",
+    "categoria": "Construcción",
+    "medidas": "3/8, 1/2 y 5/8 pulg x 9m",
+    "descripcion": "Barras de acero de construcción sismorresistente para zapatas y columnas.",
+    "precio_ref": "S/ 33.50"
+  }
+]
