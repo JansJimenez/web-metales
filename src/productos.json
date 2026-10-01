@@ -1,50 +1,92 @@
 [
   {
     "id": 1,
-    "nombre": "Calamina Galvanizada Ondulada",
-    "categoria": "Calaminas",
-    "medidas": "0.22mm x 1.80m / 3.60m",
-    "descripcion": "Cobertura económica y resistente contra la corrosión y lluvias intensas.",
-    "precio_ref": "S/ 24.50"
+    "nombre": "Teja Metálica Prepintada de Aluzinc",
+    "categoria": "Tejas y Calaminones",
+    "norma": "Aluzinc AZ-150 Prepintado",
+    "espesores": "0.35 mm / 0.40 mm / 0.45 mm",
+    "largos": "1.10 m, 2.20 m, 3.30 m y a medida",
+    "precio_ref": "S/ 52.00",
+    "precio_num": 52.00
   },
   {
     "id": 2,
-    "nombre": "Calamina Trapezoidal TR4",
-    "categoria": "Calaminas",
-    "medidas": "Aluzinc 0.40mm - Cortes a medida",
-    "descripcion": "Alta resistencia estructural para techados residenciales e industriales.",
-    "precio_ref": "S/ 48.00"
+    "nombre": "Calaminón Aluzinc Trapezoidal TR4",
+    "categoria": "Tejas y Calaminones",
+    "norma": "ASTM A792 AZ-150",
+    "espesores": "0.30 mm / 0.35 mm / 0.40 mm / 0.50 mm",
+    "largos": "Cortes directos de fábrica hasta 12 m",
+    "precio_ref": "S/ 46.00",
+    "precio_num": 46.00
   },
   {
     "id": 3,
-    "nombre": "Plancha Termoacústica UPVC",
-    "categoria": "Calaminas",
-    "medidas": "Espesor 2.0mm / 2.5mm",
-    "descripcion": "Reduce el ruido de lluvia y aísla el calor. Inmune a la oxidación.",
-    "precio_ref": "S/ 85.00"
+    "nombre": "Calamina Galvanizada Ondulada Pesada",
+    "categoria": "Coberturas y Calaminas",
+    "norma": "ASTM A653 / NTP 341.031",
+    "espesores": "0.22 mm / 0.25 mm / 0.30 mm",
+    "largos": "1.80 m / 2.40 m / 3.00 m / 3.60 m",
+    "precio_ref": "S/ 24.50",
+    "precio_num": 24.50
   },
   {
     "id": 4,
-    "nombre": "Tubo Cuadrado Estructural",
-    "categoria": "Metales",
-    "medidas": "2x2 pulg x 2.0mm x 6m",
-    "descripcion": "Acero LAC para estructuras de techos, tijerales y portones.",
-    "precio_ref": "S/ 62.00"
+    "nombre": "Plancha Termoacústica UPVC Silenciosa",
+    "categoria": "Coberturas y Calaminas",
+    "norma": "ISO 9001 - Antifuego B1",
+    "espesores": "2.0 mm / 2.5 mm",
+    "largos": "1.80 m a 6.00 m",
+    "precio_ref": "S/ 85.00",
+    "precio_num": 85.00
   },
   {
     "id": 5,
-    "nombre": "Perfil Canal U y Platinas",
-    "categoria": "Metales",
-    "medidas": "Varillas estándar de 6 metros",
-    "descripcion": "Perfiles laminados en caliente para cerrajería y carpintería metálica.",
-    "precio_ref": "S/ 38.00"
+    "nombre": "Perfil Costanera C (Correa para Techo)",
+    "categoria": "Perfiles y Estructuras",
+    "norma": "ASTM A36",
+    "espesores": "1.5 mm / 2.0 mm / 2.5 mm",
+    "largos": "Barras de 6.00 m",
+    "precio_ref": "S/ 42.00",
+    "precio_num": 42.00
   },
   {
     "id": 6,
-    "nombre": "Fierro Corrugado Grado 60",
-    "categoria": "Construcción",
-    "medidas": "3/8, 1/2 y 5/8 pulg x 9m",
-    "descripcion": "Barras de acero de construcción sismorresistente para zapatas y columnas.",
-    "precio_ref": "S/ 33.50"
+    "nombre": "Tubo Estructural LAC Cuadrado y Rectangular",
+    "categoria": "Perfiles y Estructuras",
+    "norma": "ASTM A500 Grado B",
+    "espesores": "1.5 mm, 2.0 mm, 3.0 mm",
+    "largos": "Barras de 6.00 m",
+    "precio_ref": "S/ 58.00",
+    "precio_num": 58.00
+  },
+  {
+    "id": 7,
+    "nombre": "Cumbrera / Caballete para Teja Metálica y TR4",
+    "categoria": "Accesorios y Fijaciones",
+    "norma": "Aluzinc Prepintado 0.40 mm",
+    "espesores": "0.40 mm",
+    "largos": "2.00 m y 3.00 m",
+    "precio_ref": "S/ 32.00",
+    "precio_num": 32.00
+  },
+  {
+    "id": 8,
+    "nombre": "Tornillos Autoperforantes con Arandela EPDM",
+    "categoria": "Accesorios y Fijaciones",
+    "norma": "Acero cementado / EPDM",
+    "espesores": "#10, #12 con arandela",
+    "largos": "1\", 2\", 2-1/2\"",
+    "precio_ref": "S/ 28.00",
+    "precio_num": 28.00
+  },
+  {
+    "id": 9,
+    "nombre": "Fierro Corrugado Grado 60 Sismorresistente",
+    "categoria": "Perfiles y Estructuras",
+    "norma": "NTP 341.031",
+    "espesores": "6mm a 3/4\"",
+    "largos": "Barras de 9.00 m",
+    "precio_ref": "S/ 33.50",
+    "precio_num": 33.50
   }
 ]
